@@ -1,0 +1,15 @@
+database:
+  # host: "localhost"
+  # username: "client"
+  # password: "password"
+  # name: "rmdev"
+  # client: "mysql"
+  host: "mysql-test"
+  username: "root"
+  password: "testing"
+  name: "mysql"
+  client: "mysql"
+
+application:
+  port: 3000
+  slack_webhook: "https://hooks.slack.com/services/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"

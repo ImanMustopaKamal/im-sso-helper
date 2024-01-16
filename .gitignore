@@ -1,0 +1,14 @@
+# package directories
+node_modules
+jspm_packages
+
+# keep the logs folder
+logs/*
+# exception to the rule
+!logs/.gitkeep 
+
+# Serverless directories
+.serverless
+
+serverless.yml
+config/config.yaml

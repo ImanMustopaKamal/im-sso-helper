@@ -1,0 +1,11 @@
+database:
+  host: "localhost"
+  port: "3306"
+  username: "root"
+  password: "goblog888"
+  name: "ssodev"
+  client: "mysql"
+
+application:
+  port: 3000
+  slack_webhook: "https://hooks.slack.com/services/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"
